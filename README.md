@@ -25,3 +25,5 @@ This is a collection of URLs that link to articles and various other helpful ref
 - Git Cheat Sheet (from [Tower]) (2) - https://www.git-tower.com/blog/git-cheat-sheet/
 
 ![**Git Cheat Sheet Tower (2)**](img/git-cheat-sheet-large02.png)
+
+- [Instructions for installing a Lisk Node from source code] (http://wiki.lisk.prolina.org/Install-a-Lisk-node-on-Ubuntu)
