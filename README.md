@@ -9,6 +9,7 @@ Git Cheat Sheet (1) | [**Internal Link**](#git-cheat-sheet-1)
 Git Cheat Sheet (2) | [**Internal Link**](#git-cheat-sheet-2)
 
 This is a collection of URLs that link to articles and various other helpful reference material
+[http://wiki.lisk.prolina.org/Install-a-Lisk-node-on-Ubuntu](http://wiki.lisk.prolina.org/Install-a-Lisk-node-on-Ubuntu)
 
 ### A Visual Git Reference
 
